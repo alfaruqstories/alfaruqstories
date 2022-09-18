@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfaruqstories
-- 👀 Interests: Backend Development
+- 👀 Interests: Backend Development, No-code, MVP
 - 🌱 Languages: Python & Javascript
 <!---
 alfaruqstories/alfaruqstories is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
