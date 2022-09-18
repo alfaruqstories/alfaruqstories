@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfaruqstories
-- 👀 I’m interested in Backend Developmen
+- 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Python & Javascript
 <!---
 alfaruqstories/alfaruqstories is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
